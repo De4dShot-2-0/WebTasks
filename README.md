@@ -1,2 +1,2 @@
 # WebTasks
-Labs for a web in Epam.
+Web Project with Flex.
