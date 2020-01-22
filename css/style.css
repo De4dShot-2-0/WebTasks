@@ -1,0 +1,45 @@
+* {
+    margin: 5px;
+}
+
+body {
+    background-color: #fda;
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+}
+
+.prodBox {
+    background-color: rgb(197, 248, 231);
+    width: 22%;
+    height: 150px;
+    border: 1px solid purple;
+    border-radius: 5px;
+}
+
+.nameBox {
+    height: 65px;
+}
+
+.priceBox {
+    color: green;
+    font-family: "comic sans ms";
+    height: 50px;
+}
+
+.newPriceBox {
+    color: red;
+    font-family: "comic sans ms";
+}
+
+.oldPriceBox {
+    color: grey;
+    text-decoration: black line-through;
+    font-family: "comic sans ms";
+}
+
+.ratingBox {}
